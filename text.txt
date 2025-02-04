@@ -1,8 +1,6 @@
 hello!
-<<<<<<< Updated upstream
 
 hello vanshika..!
-=======
 Vaishnavi
 
 
@@ -10,4 +8,6 @@ Vaishnavi
 
 
  
->>>>>>> Stashed changes
+
+
+again doing
